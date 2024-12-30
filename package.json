@@ -1,0 +1,25 @@
+{
+  "name": "jenkins_node_test",
+  "version": "1.0.0",
+  "description": "This is my chance to learn jenkins pipelines and use them with kubernetes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aechouks/test_jenkins.git"
+  },
+  "keywords": [
+    "jenkins",
+    "kubernetes",
+    "node"
+  ],
+  "author": "aec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aechouks/test_jenkins/issues"
+  },
+  "homepage": "https://github.com/aechouks/test_jenkins#readme"
+}
