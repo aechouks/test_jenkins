@@ -1,1 +1,1 @@
-"third test creating a test3 file, to test jenkins access to my github account :)" 
+"third test creating a test3 file, to test Jenkins access to my GitHub account :)" 
