@@ -4,8 +4,7 @@
   "description": "This is my chance to learn jenkins pipelines and use them with kubernetes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -21,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/aechouks/test_jenkins/issues"
   },
-  "homepage": "https://github.com/aechouks/test_jenkins#readme"
+  "homepage": "https://github.com/aechouks/test_jenkins#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
